@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # flutter_beercade
 
 A new Flutter application.
@@ -10,4 +9,3 @@ For help getting started with Flutter, view our online
 =======
 # flutter-beercade
 Flutter Beercade
->>>>>>> 923102f364f0fcd02f942c84bd971a156b5c26ce
